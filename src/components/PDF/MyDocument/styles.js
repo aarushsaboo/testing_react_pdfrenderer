@@ -1,4 +1,4 @@
-// src/components/PDF/styles/pdfStyles.js
+// src/components/PDF/MyDocument/styles.js
 import { StyleSheet } from "@react-pdf/renderer"
 
 export const styles = StyleSheet.create({

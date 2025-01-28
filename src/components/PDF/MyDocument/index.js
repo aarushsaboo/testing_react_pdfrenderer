@@ -1,6 +1,6 @@
-// src/components/PDF/MyDocument.js
+// src/components/PDF/MyDocument/index.js
 import { Document, Page, Text, View } from "@react-pdf/renderer"
-import { styles } from "./styles/pdfStyles"
+import { styles } from "./styles"
 
 const MyDocument = () => (
   <Document>

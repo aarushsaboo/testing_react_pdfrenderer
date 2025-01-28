@@ -1,5 +1,5 @@
 // src/App.js
-import PDFDownload from "./components/PDF/PDFDownload"
+import {PDFDownload} from "./components/PDF"
 
 function App() {
   return (
