@@ -1,10 +1,10 @@
 // src/App.js
-import BasicPDF from "./components/BasicPDF"
+import PDFDownload from "./components/PDF/PDFDownload"
 
 function App() {
   return (
     <div className="App">
-      <BasicPDF />
+      <PDFDownload />
     </div>
   )
 }
